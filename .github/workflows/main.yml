@@ -1,0 +1,19 @@
+name: Demo
+
+on:
+  workflow_dispatch:
+    inputs:
+      name:
+        description: 'Name'
+        required: true
+      age:
+        description: 'Age'
+        required: true
+
+jobs:
+  printInputs:
+    runs-on: ubuntu-latest
+    steps:
+    - run: |
+        echo "Name: ${{ github.event.inputs.name }}"
+        echo "Age: ${{ github.event.inputs.age }}"
