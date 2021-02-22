@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![I voted!](https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif)
-
 ### :telescope: I'm currently focused on...
 
 - Digital transformation at the [@department-of-veterans-affairs](https://github.com/department-of-veterans-affairs)
